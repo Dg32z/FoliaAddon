@@ -22,7 +22,7 @@ public final class FoliaAddon extends JavaPlugin {
             new HookUtil().register();
         }
     }
-    
+
 @Override
     public void onDisable() {
         instance = null;

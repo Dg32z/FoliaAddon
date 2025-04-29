@@ -77,14 +77,14 @@
             <artifactId>placeholderapi</artifactId>
             <version>2.11.7</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/libs/PlaceholderAPI-2.11.7-DEV-Folia.jar</systemPath>
+            <systemPath>lib/PlaceholderAPI-2.11.7-DEV-Folia.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>me.earthme.luminol</groupId>
             <artifactId>luminol-api</artifactId>
             <version>1.21-R0.1</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/libs/luminol-api-1.21.1-R0.1-SNAPSHOT.jar</systemPath>
+            <systemPath>lib/luminol-api-1.21.1-R0.1-SNAPSHOT.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>org.jetbrains</groupId>
