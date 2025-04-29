@@ -1,0 +1,11 @@
+name: FoliaAddon
+version: '1.0-SNAPSHOT'
+main: cn.dg32z.network.FoliaAddon
+api-version: '1.21'
+load: STARTUP
+authors: [ Dg32z_ ]
+description: Mod that helps you get rid of ghost blocks around yourself. Use /ghost or type the g key (can be rebound) to request block-resends.
+website: chaos-smp.cn
+folia-supported: true
+depend:
+  - PlaceholderAPI
